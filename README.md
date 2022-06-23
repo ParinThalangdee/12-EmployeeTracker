@@ -9,7 +9,6 @@
 
   * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#usage)
   
   * [License](#license)
     
@@ -28,14 +27,6 @@
   ## [Installation](#table-of-contents)
 
   Start this project by running node server.js in the terminal.
-
-  ## [Usage](#table-of-contents)
-
-  .
-  
-  For more information on how to add screenshots for examples, visit the following website:
-  
-  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
   
   
   ## [License](#table-of-contents)
