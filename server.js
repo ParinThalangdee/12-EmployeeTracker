@@ -7,14 +7,14 @@ const db = require(".");
 const connection = mysql.createConnection({
   host: "localhost",
 
-  // Your port; if not 3306
-  port: 3306,
+  // Your port; if not 3300
+  port: 3300,
 
   // Your username
   user: "root",
 
   // Your password
-  password: "Morpheus718",
+  password: "ParinThalangdee",
   database: "employee_info_db"
 });
 
